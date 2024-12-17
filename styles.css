@@ -38,3 +38,21 @@ p {
 button {
   margin: 20px;
 }
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ .verify {
+    display: none;
+  }
+  .reset {
+    display: none;
+  }
+  
